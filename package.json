@@ -1,0 +1,23 @@
+{
+  "name": "blog-de-cafe",
+  "version": "1.0.0",
+  "description": "Practice Grid & Flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tackless/Blog-De-Cafe.git"
+  },
+  "keywords": [
+    "Grid",
+    "Flexbox"
+  ],
+  "author": "Donovan Eliosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tackless/Blog-De-Cafe/issues"
+  },
+  "homepage": "https://github.com/Tackless/Blog-De-Cafe#readme"
+}
