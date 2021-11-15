@@ -189,6 +189,14 @@ img {
     padding-bottom: 3rem;
     margin-top: 4rem;
 }
+.copy {
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+}
+.copy a {
+    color: rgb(119, 117, 117);
+}
 
 /** Sobre Nosotros **/
 @media (min-width: 768px) {
